@@ -1,0 +1,517 @@
+{
+  "schema_version": "1.0",
+  "label": "DEMO \u2014 SYNTHETIC DATA / CONCEPT PREVIEW",
+  "anchor_date": "2026-10-27",
+  "record_count": 10,
+  "counts": {
+    "pending": 3,
+    "completed": 3,
+    "blocked": 3,
+    "rejected": 1
+  },
+  "currency": "USD",
+  "rules": {
+    "name": "Fictional configurable carrier-rule placeholder",
+    "legal_text": null,
+    "deadline": null,
+    "verification_owner": "L. Brooks (fictional reviewer)",
+    "status": "verify",
+    "no_authoritative_contract_text": true
+  },
+  "cases": [
+    {
+      "id": "FC-201",
+      "synthetic": true,
+      "account": "Cedar Vale Fixtures",
+      "shipment_id": "DEMO-SHP-201",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "pending",
+      "opportunity_stage": "Audit requested",
+      "owner": "M. Ortiz",
+      "created_at": "2026-10-10T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": "2026-10-28T10:00:00-04:00",
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "packing_list_missing",
+      "currency": "USD",
+      "draft_claim_amount": 1650,
+      "submitted_amount": null,
+      "recovered_amount": null,
+      "outcome_evidence_status": "unknown",
+      "source_document_refs": [
+        "DEMO-201-BOL",
+        "DEMO-201-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-202",
+      "synthetic": true,
+      "account": "Northline Home Goods",
+      "shipment_id": "DEMO-SHP-202",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "completed",
+      "opportunity_stage": "Paid bundle proposed",
+      "owner": "J. Rao",
+      "created_at": "2026-10-11T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": null,
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "audit_export_reviewed",
+      "currency": "USD",
+      "draft_claim_amount": 1950,
+      "submitted_amount": 1950,
+      "recovered_amount": 1200,
+      "outcome_evidence_status": "fictional historical record, not real recovery evidence",
+      "source_document_refs": [
+        "DEMO-202-BOL",
+        "DEMO-202-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-203",
+      "synthetic": true,
+      "account": "Harbor Pine Components",
+      "shipment_id": "DEMO-SHP-203",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "blocked",
+      "opportunity_stage": "Data authority checked",
+      "owner": "A. Chen",
+      "created_at": "2026-10-12T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": "2026-10-28T10:00:00-04:00",
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "contract_version_unavailable",
+      "currency": "USD",
+      "draft_claim_amount": 4200,
+      "submitted_amount": null,
+      "recovered_amount": null,
+      "outcome_evidence_status": "unknown",
+      "source_document_refs": [
+        "DEMO-203-BOL",
+        "DEMO-203-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-204",
+      "synthetic": true,
+      "account": "Silver Fern Packaging",
+      "shipment_id": "DEMO-SHP-204",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "pending",
+      "opportunity_stage": "Packet reviewed",
+      "owner": "M. Ortiz",
+      "created_at": "2026-10-13T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": "2026-10-28T10:00:00-04:00",
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "photo_date_uncertain",
+      "currency": "USD",
+      "draft_claim_amount": 960,
+      "submitted_amount": null,
+      "recovered_amount": null,
+      "outcome_evidence_status": "unknown",
+      "source_document_refs": [
+        "DEMO-204-BOL",
+        "DEMO-204-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-205",
+      "synthetic": true,
+      "account": "Cedar Vale Fixtures",
+      "shipment_id": "DEMO-SHP-205",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "completed",
+      "opportunity_stage": "Paid bundle proposed",
+      "owner": "J. Rao",
+      "created_at": "2026-10-14T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": null,
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "audit_export_reviewed",
+      "currency": "USD",
+      "draft_claim_amount": 800,
+      "submitted_amount": 800,
+      "recovered_amount": 0,
+      "outcome_evidence_status": "fictional historical record, not real recovery evidence",
+      "source_document_refs": [
+        "DEMO-205-BOL",
+        "DEMO-205-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-206",
+      "synthetic": true,
+      "account": "Juniper Industrial Supply",
+      "shipment_id": "DEMO-SHP-206",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "rejected",
+      "opportunity_stage": "Audit requested",
+      "owner": "L. Brooks",
+      "created_at": "2026-10-15T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": null,
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "data_authority_not_established",
+      "currency": "USD",
+      "draft_claim_amount": 3300,
+      "submitted_amount": null,
+      "recovered_amount": null,
+      "outcome_evidence_status": "unknown",
+      "source_document_refs": [
+        "DEMO-206-BOL",
+        "DEMO-206-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "not established",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-207",
+      "synthetic": true,
+      "account": "Northline Home Goods",
+      "shipment_id": "DEMO-SHP-207",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "blocked",
+      "opportunity_stage": "Data authority checked",
+      "owner": "A. Chen",
+      "created_at": "2026-10-16T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": "2026-10-28T10:00:00-04:00",
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "conflicting_quantity",
+      "currency": "USD",
+      "draft_claim_amount": 1480,
+      "submitted_amount": null,
+      "recovered_amount": null,
+      "outcome_evidence_status": "unknown",
+      "source_document_refs": [
+        "DEMO-207-BOL",
+        "DEMO-207-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-208",
+      "synthetic": true,
+      "account": "Harbor Pine Components",
+      "shipment_id": "DEMO-SHP-208",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "blocked",
+      "opportunity_stage": "Data authority checked",
+      "owner": "A. Chen",
+      "created_at": "2026-10-22T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": "2026-10-28T10:00:00-04:00",
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "pod_signature_and_invoice_conflict",
+      "currency": "USD",
+      "draft_claim_amount": 2880,
+      "submitted_amount": null,
+      "recovered_amount": null,
+      "outcome_evidence_status": "unknown",
+      "source_document_refs": [
+        "FC208-BOL-01",
+        "FC208-POD-01",
+        "FC208-INV-01",
+        "FC208-PACK-01",
+        "FC208-PHOTO-01",
+        "FC208-DAMAGE-01"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo",
+      "financial_reconciliation": {
+        "shipment_cartons": 100,
+        "invoice_unit_value": 220,
+        "shipment_invoice_value": 22000,
+        "draft_damaged_cartons": 12,
+        "draft_unit_value": 240,
+        "draft_damage_amount": 2880,
+        "source_based_comparison": 2640,
+        "difference": 240,
+        "review_status": "pending; damage quantity and recoverability not determined",
+        "recovered_amount": null
+      },
+      "attachments": [
+        {
+          "id": "FC208-BOL-01",
+          "name": "demo-bol-208.pdf",
+          "kind": "BOL",
+          "origin": "synthetic shipper export",
+          "ingested_at": "2026-10-23T09:00:00-04:00",
+          "original_version": "v1",
+          "source_locator": "page 1 / carton count",
+          "status": "present",
+          "extracted_fields": {
+            "cartons": 100
+          },
+          "reviewer_corrections": []
+        },
+        {
+          "id": "FC208-POD-01",
+          "name": "demo-pod-scan-208.pdf",
+          "kind": "POD",
+          "origin": "synthetic warehouse scan",
+          "ingested_at": "2026-10-23T09:03:00-04:00",
+          "original_version": "v1",
+          "source_locator": "page 1 / receiver signature",
+          "status": "present but signature illegible; usable signed POD missing",
+          "extracted_fields": {
+            "receiver_signature": null,
+            "delivery_notations": null
+          },
+          "ocr_confidence": {
+            "receiver_signature": 0.32
+          },
+          "reviewer_corrections": []
+        },
+        {
+          "id": "FC208-INV-01",
+          "name": "demo-invoice-208.pdf",
+          "kind": "commercial_invoice",
+          "origin": "synthetic shipper commercial invoice",
+          "ingested_at": "2026-10-23T09:05:00-04:00",
+          "original_version": "v1",
+          "source_locator": "page 1 / line 1",
+          "status": "present",
+          "extracted_fields": {
+            "quantity": 100,
+            "unit_value": 220,
+            "line_total": 22000
+          },
+          "reviewer_corrections": []
+        },
+        {
+          "id": "FC208-PACK-01",
+          "name": "demo-packing-list-208.pdf",
+          "kind": "packing_list",
+          "origin": "synthetic shipper packing record",
+          "ingested_at": "2026-10-23T09:06:00-04:00",
+          "original_version": "v1",
+          "source_locator": "page 1 / item table",
+          "status": "present",
+          "extracted_fields": {
+            "cartons": 100
+          },
+          "reviewer_corrections": []
+        },
+        {
+          "id": "FC208-PHOTO-01",
+          "name": "demo-warehouse-20261022.jpg",
+          "kind": "photo",
+          "origin": "synthetic warehouse photo fixture; no real cargo image",
+          "ingested_at": "2026-10-23T09:07:00-04:00",
+          "original_version": "v1",
+          "source_locator": "whole frame",
+          "status": "capture date unverified",
+          "extracted_fields": {
+            "filename_date_hint": "2026-10-22",
+            "capture_date": null
+          },
+          "reviewer_corrections": []
+        },
+        {
+          "id": "FC208-DAMAGE-01",
+          "name": "demo-damage-schedule-208.pdf",
+          "kind": "draft_damage_schedule",
+          "origin": "synthetic analyst draft",
+          "ingested_at": "2026-10-23T09:09:00-04:00",
+          "original_version": "v1",
+          "source_locator": "page 1 / line 1",
+          "status": "unit value conflicts with invoice",
+          "extracted_fields": {
+            "quantity": 12,
+            "unit_value": 240,
+            "line_total": 2880
+          },
+          "reviewer_corrections": []
+        }
+      ],
+      "tasks": [
+        {
+          "id": "T208-1",
+          "owner": "A. Chen",
+          "action": "Request legible signed POD through approved workflow",
+          "status": "open",
+          "source_ref": "FC208-POD-01"
+        },
+        {
+          "id": "T208-2",
+          "owner": "A. Chen",
+          "action": "Review draft unit value against invoice line",
+          "status": "open",
+          "source_ref": "FC208-INV-01"
+        },
+        {
+          "id": "T208-3",
+          "owner": "A. Chen",
+          "action": "Verify photo capture date with source owner",
+          "status": "open",
+          "source_ref": "FC208-PHOTO-01"
+        },
+        {
+          "id": "T208-4",
+          "owner": "L. Brooks (fictional counsel reviewer)",
+          "action": "Establish standing and applicable contract/rule source",
+          "status": "blocked: source needed",
+          "source_ref": null
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-10-22T09:00:00-04:00",
+          "actor": "M. Ortiz",
+          "event": "Audit requested; synthetic case created"
+        },
+        {
+          "at": "2026-10-23T09:10:00-04:00",
+          "actor": "A. Chen",
+          "event": "Demo data authority check recorded; legal claimant standing remains unresolved"
+        },
+        {
+          "at": "2026-10-24T11:00:00-04:00",
+          "actor": "A. Chen",
+          "event": "Signature review and value mismatch tasks assigned"
+        },
+        {
+          "at": "2026-10-27T10:00:00-04:00",
+          "actor": "A. Chen",
+          "event": "Evidence chase remains open; no filing or deadline verified"
+        }
+      ],
+      "demo_interaction": {
+        "action": "Record demo value correction",
+        "from": {
+          "unit_value": 240,
+          "amount": 2880
+        },
+        "to": {
+          "unit_value": 220,
+          "comparison_amount": 2640
+        },
+        "requires": "explicit reviewer click + reason + source reference",
+        "result": "append correction history; retain original draft; POD and deadline remain unresolved",
+        "not_result": "claim approved, filed, settled or recoverable"
+      }
+    },
+    {
+      "id": "FC-209",
+      "synthetic": true,
+      "account": "Silver Fern Packaging",
+      "shipment_id": "DEMO-SHP-209",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "completed",
+      "opportunity_stage": "Packet reviewed",
+      "owner": "L. Brooks",
+      "created_at": "2026-10-18T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": null,
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "audit_export_reviewed",
+      "currency": "USD",
+      "draft_claim_amount": 1200,
+      "submitted_amount": 1200,
+      "recovered_amount": 900,
+      "outcome_evidence_status": "fictional historical record, not real recovery evidence",
+      "source_document_refs": [
+        "DEMO-209-BOL",
+        "DEMO-209-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    },
+    {
+      "id": "FC-210",
+      "synthetic": true,
+      "account": "Juniper Industrial Supply",
+      "shipment_id": "DEMO-SHP-210",
+      "carrier": "Demo Carrier A (fictional)",
+      "mode": "Road / domestic U.S. (fictional scope)",
+      "jurisdiction_status": "requires verification",
+      "contract_version": null,
+      "audit_status": "pending",
+      "opportunity_stage": "Audit requested",
+      "owner": "M. Ortiz",
+      "created_at": "2026-10-19T09:00:00-04:00",
+      "updated_at": "2026-10-27T10:00:00-04:00",
+      "next_action_at": "2026-10-28T10:00:00-04:00",
+      "next_action_kind": "internal review task, not legal deadline",
+      "primary_issue": "bol_required",
+      "currency": "USD",
+      "draft_claim_amount": 2240,
+      "submitted_amount": null,
+      "recovered_amount": null,
+      "outcome_evidence_status": "unknown",
+      "source_document_refs": [
+        "DEMO-210-INV"
+      ],
+      "filing_deadline": null,
+      "deadline_status": "verify",
+      "standing_status": "review required",
+      "settlement_authority": "not granted by demo"
+    }
+  ],
+  "report": {
+    "known_synthetic_outcomes": 3,
+    "unknown_outcomes": 7,
+    "submitted_total_known_cohort": 3950,
+    "recovered_total_known_cohort": 2100,
+    "watermark": "ILLUSTRATIVE \u2014 SYNTHETIC HISTORICAL VALUES; NOT REAL RESULTS",
+    "recovery_rate_display": false
+  }
+}

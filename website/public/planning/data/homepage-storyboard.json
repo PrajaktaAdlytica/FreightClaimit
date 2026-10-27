@@ -1,0 +1,106 @@
+[
+  {
+    "id": "H01",
+    "headline": "Know what\u2019s missing. Before you file.",
+    "copy": "A provenance-first evidence audit for cargo damage and shortage claims. Explore one synthetic shipment with an unresolved POD signature, ambiguous photo date and conflicting draft value.",
+    "visual": "Crisp white architectural grid; central glass dossier connected to emerald cargo-owner cube, modular 3PL blocks and silver insurer frame; persistent CONCEPT PREVIEW.",
+    "motion": "On load: wordmark and navigation immediately visible; text rises 24px in 2\u20133 lines over 650ms; cargo resolves from a shallow mask. First scroll separates the central evidence panes and follows a source link into the dossier. No forced intro.",
+    "cta": "Inspect sample claim \u2192 /demo/cases/FC-208; Request a pilot \u2192 /pilot"
+  },
+  {
+    "id": "H02",
+    "headline": "The loss is visible. The evidence is scattered.",
+    "copy": "BOL in one inbox. Photos at the warehouse. Delivery evidence unresolved. A draft amount that does not match the invoice.",
+    "visual": "Cool silver-gray schematic route with four source islands; fictional origin/handoff/delivery, no real tracking.",
+    "motion": "Vertical entry: each island enters from its actual handoff direction, then connector draws; missing source remains a gap.",
+    "cta": "Why change \u2192 /why-change"
+  },
+  {
+    "id": "H03",
+    "headline": "Follow one shipment into review.",
+    "copy": "Open the BOL, inspect the delivery record, reconcile the draft value and assign the evidence chase.",
+    "visual": "One desktop horizontal evidence strip with fixed case label; four labeled stops.",
+    "motion": "Pinned only on wide/tall screens. Vertical scroll advances four stops; visible progress and Skip chapter. Each stop holds readable source+finding.",
+    "cta": "Open each document \u2192 dossier source pane"
+  },
+  {
+    "id": "H04",
+    "headline": "Keep the source. Show the uncertainty.",
+    "copy": "Original attachments, origin metadata and reviewer corrections stay distinct. Uncertain OCR becomes a task, not an invented delivery notation.",
+    "visual": "Deep graphite evidence vault; left document crop, center extracted field, right correction history.",
+    "motion": "Vertical layered reveal: source rises, field connects from right, uncertainty underline appears; scroll reverses visual layers without altering data.",
+    "cta": "Explore provenance \u2192 /platform"
+  },
+  {
+    "id": "H05",
+    "headline": "Five offers. One clear first test.",
+    "copy": "Start with Freight Desk. Evaluate rule tracking, reconciliation, reviewed packets and prevention reporting as separate offers.",
+    "visual": "Crisp white editorial product index; five bespoke mini-scenes and direct page links.",
+    "motion": "All names visible without horizontal interaction. One-time alternating 16\u201324px reveals; hover/focus highlights the owning workflow.",
+    "cta": "Five product routes + /products"
+  },
+  {
+    "id": "H06",
+    "headline": "Different roles. Explicit authority.",
+    "copy": "Cargo owner, 3PL agent and insurer have different responsibilities. Contracting or insurance counsel validates standing and permitted handling.",
+    "visual": "White and silver role topology; central analyst dossier, three distinct party geometries and separate counsel layer.",
+    "motion": "Nodes enter by role; solid/dashed connectors distinguish recorded/awaiting authority. Keyboard role selector gives same explanation.",
+    "cta": "Permissions \u2192 /trust"
+  },
+  {
+    "id": "H07",
+    "headline": "A review queue with a next action.",
+    "copy": "A. Chen owns FC-208\u2019s evidence chase. The signed POD remains unresolved. The filing deadline remains Verify.",
+    "visual": "Full-width readable workbench on paper; no floating illegible dashboard collage.",
+    "motion": "Vertical stepper focuses source \u2192 discrepancy \u2192 assigned task \u2192 history. Actual clicks drive corrections; scroll only explains them.",
+    "cta": "Enter workbench \u2192 /demo/queue"
+  },
+  {
+    "id": "H08",
+    "headline": "A deadline needs a source.",
+    "copy": "Carrier, mode, contract, jurisdiction and rule owner belong beside every verified date. When applicability is unknown, the date stays unknown.",
+    "visual": "Archive-style rule card, version spine and timeline with an intentional blank slot.",
+    "motion": "A source slot slides open; no date \u201cfills itself.\u201d Reveal verification owner and missing contract label.",
+    "cta": "Rule FAQ \u2192 /resources/carrier-rules"
+  },
+  {
+    "id": "H09",
+    "headline": "Measure the audit against the workflow you already use.",
+    "copy": "FreightClaims, carrier portals, spreadsheets, TMS workflows and recovery firms already serve this market. Test whether the audit adds useful evidence or saves preparation work.",
+    "visual": "Neutral comparison matrix beside a sample audit comparison sheet; no winner trophy.",
+    "motion": "Rows reveal once; selected baseline emphasizes evaluation fields.",
+    "cta": "Compare workflows \u2192 /resources/compare-workflows"
+  },
+  {
+    "id": "H10",
+    "headline": "Test a 20-case bundle.",
+    "copy": "Proposed test price: $400 for a retrospective 20-case audit; a subsequent $8 per audited intake case is a separate hypothesis. Scope and authority come first.",
+    "visual": "Cool white and silver tray containing 20 case markers; calm commercial panel.",
+    "motion": "Case tray settles once, numbers appear at final value; never count up from zero.",
+    "cta": "Request a pilot \u2192 /pilot; Details \u2192 /pricing"
+  },
+  {
+    "id": "H11",
+    "headline": "Evidence before expansion.",
+    "copy": "Target 10 claims-manager interviews, two permissioned retrospective sets and one paid 20-case audit within 45 days. Track preparation time, corrections, deficiency returns and outcomes only where knowable.",
+    "visual": "Research scorecard with blank measured columns; synthetic report in a separate inset.",
+    "motion": "Vertical milestones reveal with labels \u201ctarget,\u201d not achieved. Chart includes unknown outcome cohort.",
+    "cta": "Evaluation \u2192 /results; methodology \u2192 resource page"
+  },
+  {
+    "id": "H12",
+    "headline": "Clear answers before a pilot.",
+    "copy": "Is this operating software? Who files? Which deadlines apply? Can I upload real documents? Is pricing final? What if my TMS already solves this?",
+    "visual": "Paper FAQ with a small context-specific evidence glyph per topic.",
+    "motion": "Accessible accordion; 180\u2013240ms height/opacity transition or instant reduced motion.",
+    "cta": "Read detailed FAQ / Contact"
+  },
+  {
+    "id": "H13",
+    "headline": "Bring a workflow. Start with a scoped audit.",
+    "copy": "Tell us who owns claims, your case-volume range, carrier/mode and current software. Do not send claimant documents through this public concept.",
+    "visual": "Quiet closed dossier with one open review tab; contrast returns to graphite.",
+    "motion": "Text enters from below; CTA is immediately available. Footer remains ordinary readable layout.",
+    "cta": "Pilot / Request demo / Contact"
+  }
+]

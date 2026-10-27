@@ -1,0 +1,17 @@
+{
+  "status": "specified_not_connected",
+  "transport": null,
+  "consent_required_before_external_analytics": true,
+  "excluded": ["email", "names", "free_text", "documents", "claim_values", "credentials"],
+  "events": {
+    "sample_open": ["synthetic_case_id", "source_page", "consented_campaign_tag"],
+    "missing_evidence_drilldown": ["synthetic_case_id", "evidence_kind"],
+    "paid_audit_form_completion": ["form_kind", "module", "consented_campaign_tag"]
+  },
+  "rules": [
+    "Local draft creation is not a lead submission or buyer commitment.",
+    "Emit form completion only after a production endpoint accepts a consented request.",
+    "A paid buyer commitment requires separately verified payment and accountable buyer evidence.",
+    "Use only pre-approved capped campaigns; record campaign tags without claimant records."
+  ]
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "requirement": "Company name / historical proposed brand",
+    "destination": "Home / Company / all identity",
+    "treatment": "FreightClaimKit overrides Freight Trestle; old proposed freighttrestle.com and historical RDAP 404 retained only as superseded research. No domain purchase, current availability or trademark clearance inferred.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Buyer pain / supporting documents",
+    "destination": "Home H02 / Why change / Evidence guide",
+    "treatment": "BOL, POD, invoice, packing list, photos; scattered sources; incomplete packet risk; UPS reference.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Carrier/jurisdiction deadline caveat",
+    "destination": "Home H08 / Freight Review / Trust / carrier-rules",
+    "treatment": "No universal deadline; exact owner/source/version/applicability.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "AI-enabled incumbent and substitutes",
+    "destination": "H09 / compare-workflows",
+    "treatment": "FreightClaims explicitly named; portals, spreadsheets, TMS and recovery firms retained.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Acquisition roles",
+    "destination": "Solutions / Company research approach / internal acquisition plan",
+    "treatment": "Transportation, 3PL account managers, cargo brokers, freight audit consultants and OS&D teams; recurring cases + budget.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Five separable paid offers",
+    "destination": "H05 / product menu / Products / five pages / forms",
+    "treatment": "All five preserved; first wedge standalone; prevention separate budget.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Tagline",
+    "destination": "Home / Company",
+    "treatment": "A provenance-first evidence audit before anyone files a freight claim.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Basic info / initial scope",
+    "destination": "Home / Pricing / Pilot",
+    "treatment": "U.S. shipper/3PL; one carrier/mode first; buyer owns submission.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Vision and mission",
+    "destination": "Company / brief",
+    "treatment": "Evidence gaps/authority visible; preparation/documentation integrity; no legal, insurance or settlement decisions.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Problem / uniqueness unproven",
+    "destination": "Why change / Results / comparison",
+    "treatment": "Existing FreightClaims overlap explicit; no uniqueness assertion.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Target roles and standing",
+    "destination": "Solutions / H06 / Trust / demo",
+    "treatment": "Cargo owner, 3PL agent, insurer, counsel and analyst visually and operationally distinct.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Core pricing",
+    "destination": "H10 / Pricing / Pilot",
+    "treatment": "Hypothetical $400/20-case bundle then $8/intake case; no existing rate, checkout or acceptance.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Detailed dossier",
+    "destination": "Platform / demo case",
+    "treatment": "Original attachments, immutable-origin design, fields, reviewer corrections, owner, history, dated next action.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Carrier-rule card",
+    "destination": "Freight Review / Trust / demo",
+    "treatment": "Exact owner/version/source; fictional placeholder in demo; Verify when unknown.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Opening damaged pallet case",
+    "destination": "H01\u2013H04 / demo FC-208",
+    "treatment": "Missing usable signed POD, ambiguous photo date, invoice mismatch, source inspection and reviewer acknowledgment.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "LinkedIn GTM",
+    "destination": "Acquisition plan / resource article",
+    "treatment": "Fictional gap anatomy, current-tool comparison, owner of write-offs and authority questions.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Million-dollar expansion hypothesis",
+    "destination": "Pilot methodology / internal decision brief",
+    "treatment": "Volume + contracts, not freight loss value; extend only after incremental value validated.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Initial MVP",
+    "destination": "Demo plan / implementation handoff",
+    "treatment": "Bundled synthetic PDF/image fixtures, one named fictional contract placeholder, OCR confidence, alerts, human-reviewed export. No real upload/filing/advice/adjustment/payout estimate.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Validation site one-page narrative",
+    "destination": "Homepage within full multi-page IA",
+    "treatment": "Guide-required architecture retained; homepage contains interactive sample, five offers, disclaimer, comparison and pilot request.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Fake CRM concept",
+    "destination": "/demo/opportunities",
+    "treatment": "FC-208, A. Chen; four exact stages; no won-recovery badge.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Validation-first page order",
+    "destination": "Homepage H01\u2013H13",
+    "treatment": "Document gap \u2192 sample \u2192 provenance \u2192 review \u2192 offers \u2192 price \u2192 pilot \u2192 rules FAQ; expanded with suite/platform/roles as guide requires.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "1440\u00d7900 dossier screenshot",
+    "destination": "Later implementation capture checklist",
+    "treatment": "Left provenance / center checklist / right task+source; persistent demo badge; unknown deadline; unresolved POD.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Fake CRM rules",
+    "destination": "All demo views / fixtures",
+    "treatment": "Invented shipper/IDs/losses; no carrier legal text, approval or recovery claim.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Ad and traffic test",
+    "destination": "Acquisition plan",
+    "treatment": "Missing POD vs invoice discrepancy; capped spend separately approved; campaign tags; paid-bundle intent over CTR.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Validation metrics",
+    "destination": "Results / methodology / worksheet",
+    "treatment": "10 interviews + 2 authorized sets + 1 paid bundle / 45 days; prep time, corrections, deficiencies, verified known amounts.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Build decision",
+    "destination": "Results / methodology",
+    "treatment": "Proceed incremental paid value + lawful sharing; pivot prevention if commoditized; stop authority/contract failures.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Notion fields later",
+    "destination": "Worksheet / JSON schema",
+    "treatment": "Carrier/mode, standing, contract, documents, OCR, rule owner, prep, deficiency, submitted/recovered, pilot fee, decision.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Builder scope / definition of done",
+    "destination": "This report / handoff",
+    "treatment": "Reviewer can prototype/evaluate permissioned audit; implementation is later; legal rules and incremental recovery unproven.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Eight required deliverables",
+    "destination": "This report + JSON outputs",
+    "treatment": "Brief; fixtures; landing copy; checklist; role/action storyboard; rule protocol; competitor matrix; pilot worksheet.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Buyer-pain\u2192offer\u2192flow\u2192rules\u2192price\u2192test\u2192gate",
+    "destination": "IA + homepage",
+    "treatment": "All sequence components preserved with direct dedicated routes.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Source screenshots / historical preview",
+    "destination": "Visual studies / screenshot plan",
+    "treatment": "Supplied references are moodboards; screenshots/42-website-preview.png is mentioned but not provided as an accessible file. No deployed product inferred.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Parent screenshot verification",
+    "destination": "Later QA handoff",
+    "treatment": "Primary reviewer verifies real browser captures; current generated PNGs never count as implementation QA.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Copyright",
+    "destination": "Brand / resources / asset manifest",
+    "treatment": "Original copy/diagrams; reference UPS/FreightClaims without proprietary forms or marketing images; no actual customer freight photos.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Waitlist and consent",
+    "destination": "Pilot / request-demo / privacy",
+    "treatment": "Work email, volume, mode, software, authority, consent; no public claimant documents.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Analytics",
+    "destination": "Conversion specification",
+    "treatment": "Sample open, gap drilldown, paid-audit request completion; campaign tags; commitment remains separate.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Ad constraints",
+    "destination": "Acquisition / copy guardrails",
+    "treatment": "No universal deadline, insurer-service implication, recovery guarantee, actual integration or fake case study.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Quality before push",
+    "destination": "QA plan",
+    "treatment": "Carrier/contract specificity, standing, sourced evidence, visible uncertainty, human boundary, five offers, hypothetical pricing.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Five working product names",
+    "destination": "Product inventory",
+    "treatment": "Freight Desk / Review / Proof / Signal / Report under FreightClaimKit; optional proposed directions, not live plans or verified marks.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "8\u201312 realistic records",
+    "destination": "Synthetic fixture JSON",
+    "treatment": "10 fictional cases; 3 pending, 3 blocked, 3 completed, 1 rejected; owners, chronology, source refs and failure case.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Input\u2192exception\u2192source\u2192next step\u2192reviewer\u2192export",
+    "destination": "Demo storyboard",
+    "treatment": "Specific linked state changes; scroll is not approval; rejection/unknown states preserved.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Desktop/mobile real captures",
+    "destination": "Later implementation acceptance",
+    "treatment": "1440px and 390px; queue, opened case, source/reviewer, report; both persistent badges, illustrative chart watermark.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "No fabricated proof",
+    "destination": "Results / Trust / all copy",
+    "treatment": "No customers, partners, security certifications, integrations, reduced risk/money, revenue or shipped SaaS claims.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Early access and no dead CTA",
+    "destination": "Navigation / forms / access plan",
+    "treatment": "Real routes later; truthful unconnected state; demo separate; branded 404.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Primary physical cargo metaphor",
+    "destination": "Hero / products",
+    "treatment": "Subtle cargo damage; modular container and pallet, no disaster imagery.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Evidence vault",
+    "destination": "H04 / Platform / source detail",
+    "treatment": "Transparent layers, original attachments, linked corrections and review control.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Inspection scanner metaphor",
+    "destination": "Direction 2 / Proof",
+    "treatment": "Architectural evidence highlight; no airport screening, robot or actual hardware capability.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Interconnected parties",
+    "destination": "H06 / Solutions / Trust",
+    "treatment": "Solid cargo, connected blocks, insurer outline, counsel verification layer, central analyst dashboard.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Combined recommendation",
+    "destination": "Direction 1 recommendation",
+    "treatment": "Physical cargo + transparent evidence layers + precise connectors; coherent material system.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Rich visuals per chapter",
+    "destination": "Homepage and route visual plan",
+    "treatment": "Cards, schematic maps, diagrams, ledgers, still life, workbench, charts and original illustrations tied to copy.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Lenis/GSAP cinematic motion",
+    "destination": "Motion plan",
+    "treatment": "Horizontal bounded chapter, vertical scenes, x/y reveals, background changes, hover/focus, reverse/mobile/reduced states.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Branding first",
+    "destination": "Brand plan before implementation",
+    "treatment": "Logo/wordmark/favicon proposals and palette/type/icon conventions; selected direction still required before final brand assets.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Full guide page coverage",
+    "destination": "IA",
+    "treatment": "Problem, solutions, all products, platform, features, results, pricing, demo, access, company, contact, trust, resources, workflow fit and legal.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Stats / testimonials without invented proof",
+    "destination": "Results / H11",
+    "treatment": "Evaluation scorecard and clearly synthetic outcomes; no fabricated customer quote. Customer-story content reserved until authentic evidence exists.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Footer / social icons",
+    "destination": "IA / brand",
+    "treatment": "Full route map; LinkedIn and Crunchbase real URLs or labeled inactive state.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "Polish / responsive / accessibility",
+    "destination": "Brand tokens / motion / QA",
+    "treatment": "Typography, spacing, cards, buttons, labels, states, links, keyboard, touch, focus, reduced motion.",
+    "status": "planned; implementation not completed"
+  },
+  {
+    "requirement": "GitHub / Vercel / domain",
+    "destination": "Later implementation handoff",
+    "treatment": "Build after selection, test, authorized repository/deployment, real domain verification and final deployed QA. No deployment claimed here.",
+    "status": "planned; implementation not completed"
+  }
+]

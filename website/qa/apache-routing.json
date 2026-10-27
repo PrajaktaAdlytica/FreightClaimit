@@ -1,0 +1,21 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "html": true
+  },
+  {
+    "path": "/products/freight-proof",
+    "status": 200,
+    "html": true
+  },
+  {
+    "path": "/demo/cases/FC-208",
+    "status": 200,
+    "html": true
+  },
+  {
+    "path": "/assets/nonexistent.js",
+    "status": 404
+  }
+]

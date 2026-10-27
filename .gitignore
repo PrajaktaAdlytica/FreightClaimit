@@ -1,0 +1,13 @@
+**/node_modules/
+**/dist/
+**/.env*
+!**/.env.example
+**/.DS_Store
+**/*.log
+**/__pycache__/
+**/.cache/
+**/out/
+.hostinger-stage/
+release/
+outputs/reference-captures/
+outputs/*.zip

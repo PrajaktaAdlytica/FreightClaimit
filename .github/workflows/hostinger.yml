@@ -1,0 +1,36 @@
+name: Build Hostinger static website
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'website/**'
+      - 'scripts/publish-hostinger.sh'
+      - '.github/workflows/hostinger.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: hostinger-static
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+      - run: npm ci
+        working-directory: website
+      - run: npm run build && npm run test:sites
+        working-directory: website
+      - name: Publish compiled files to hostinger branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh auth setup-git
+          bash scripts/publish-hostinger.sh

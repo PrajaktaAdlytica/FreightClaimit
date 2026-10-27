@@ -1,0 +1,49 @@
+{
+  "deliverable": "FreightClaimKit research, IA and visual-direction dossier",
+  "date": "2026-10-27",
+  "main": "FreightClaimKit-Architecture-and-Visual-Direction.html",
+  "routes_planned": 39,
+  "homepage_chapters": 13,
+  "coverage_items": 56,
+  "synthetic_cases": 10,
+  "visual_studies": 3,
+  "browser_references_inspected": [
+    "https://linear.app/",
+    "https://ramp.com/accounts-payable",
+    "https://dragonfly.com/"
+  ],
+  "implementation_status": "not implemented; planning and art-direction only",
+  "art_corrections": [
+    "Direction 1: remove date near unverified deadline and invented extra quantities.",
+    "Direction 2: remove faster-resolution claim and replace module descriptions with inventory.",
+    "Direction 3: comparison is draft damage schedule versus commercial invoice, not shipper vs carrier invoices."
+  ],
+  "files": [
+    "deliverable-manifest.json",
+    "selected-direction.json",
+    "START-HERE.txt",
+    "FreightClaimKit-Architecture-and-Visual-Direction.html",
+    "reference-captures/ramp-hero.png",
+    "reference-captures/linear-intake.png",
+    "reference-captures/dragonfly-about.png",
+    "reference-captures/dragonfly-scroll-type.png",
+    "reference-captures/ramp-workflow.png",
+    "reference-captures/ramp-intake.png",
+    "reference-captures/dragonfly-hero.png",
+    "visual-directions/02-inspection-theatre.png",
+    "visual-directions/03-claim-atlas-crisp-white-v2.png",
+    "visual-directions/generation-prompts.json",
+    "visual-directions/03-claim-atlas.png",
+    "visual-directions/01-evidence-atelier.png",
+    "document-qa/verification.json",
+    "document-qa/ia-desktop.png",
+    "data/requirements-coverage.json",
+    "data/synthetic-dossier-fixtures.json",
+    "data/homepage-storyboard.json",
+    "data/carrier-rule-protocol.json",
+    "data/pilot-comparison-worksheet.json",
+    "data/page-inventory.json"
+  ],
+  "selected_direction": "Claim Atlas / option 3 / crisp-white v2",
+  "selected_revision": "visual-directions/03-claim-atlas-crisp-white-v2.png"
+}

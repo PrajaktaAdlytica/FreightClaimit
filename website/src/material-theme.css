@@ -1,0 +1,132 @@
+/* Evergreen / mineral / copper. Texture belongs to surfaces, never text. */
+:root{--ink:#142d25;--muted:#3d5544;--green:#174c3a;--green-dark:#0b3025;--line:#a4baa0;--soft:#c5d5bf;--forest:#102d28;--silver:#d6e4d4;--copper:#d58c65;--grain:url('/assets/matte-grain.svg');background:#d6e4d4;color:var(--ink)}
+body{background:#d6e4d4}
+.section,.soft{background-color:#d6e4d4;background-image:var(--grain);background-size:180px 180px}
+::selection{background:#d58c65;color:#081a17}
+:focus-visible{outline-color:#ad582f}
+/* One dark navigation bar anchors every route. */
+.site-header{background:#081a17f5;border-bottom:1px solid #34564b;color:#edf3f0}
+.site-header .logo svg{color:#d58c65}.site-header .logo small{color:#b0c2ba}
+.logo .brand-lockup{width:224px;height:45px;object-fit:contain;object-position:left center;max-width:none}
+.logo .logo-lockup{gap:0}.logo .logo-lockup small{margin-left:43px;margin-top:-1px;letter-spacing:.18em;font-size:6px}
+.footer-wordmark span img{width:100%;height:auto;max-height:245px;object-fit:contain;object-position:left center}
+@media(max-width:760px){.logo .brand-lockup{width:193px;height:38px}.logo .logo-lockup small{margin-left:37px;font-size:5px}.footer-wordmark span img{max-height:none}}
+.site-header .desktop-nav>a:hover,.site-header .nav-link:hover{color:#e3ac89}
+.site-header .icon-button,.site-header .mobile-toggle{background:#17372e;color:#edf3f0;border-color:#456358}
+.nav-demo{background:#d58c65;color:#14231b;border-color:#d58c65}.nav-demo:hover{background:#e6a17d;color:#14231b}
+.mega-menu,.mobile-nav{background:#d6e4d4;color:#142d25;border-color:#8ba68a}.mega-note{background:#bdd0b8}
+.mega-products>a:hover{background:#b7cdb1}.mobile-nav .mobile-product span{color:#3d5544}
+/* Opening: matte forest and a custom dark cargo scene. */
+.home-hero{background-color:#102d28;background-image:var(--grain);color:#edf3f0}
+.home-hero .hero-line:last-child{font-family:var(--serif);font-style:italic;font-weight:400;color:#dba17c;letter-spacing:-.045em}
+.home-hero .eyebrow,.home-hero .hero-case-label{color:#b0c2ba}
+.hero-heading-v2 .hero-description>p:first-child{color:#e1eada}
+.hero-heading-v2 .hero-description>.hero-support{color:#b0c2ba}
+.home-hero .text-link,.home-hero .hero-foot{color:#d7e5d6}
+.home-hero .hero-storyline{border-color:#466053;color:#bccdbd}
+.home-hero .button{background:#d58c65;color:#10251d;border-color:#d58c65}.home-hero .button:hover{background:#e7a381}
+.hero-scene{margin-top:22px;border-radius:0;isolation:isolate}
+.hero-art{mask-image:linear-gradient(to bottom,transparent 0%,black 9%,black 91%,transparent 100%)}
+.home-hero .party-label{background:#102d28e8;border:1px solid #506454;color:#e1eada;border-radius:2px}
+.home-hero .party-label svg{color:#dba17c}.home-hero .party-label span{color:#b0c2ba}
+.home-hero .standing-label{color:#d7e5d6}.home-hero .standing-label small{color:#b0c2ba}
+.home-hero .hero-foot{border-color:#466053}.home-hero .tiny-dot{background:#d58c65}
+.home-hero .hero-mobile-case{background:#183c30;color:#e1eada;border-color:#8b9b7d}
+.dossier-card,.final-cta .dossier-card{background:#e2ead9;color:#173325;border-color:#93ac91;box-shadow:6px 6px 0 -1px #a9bd9f,6px 6px 0 #4f6e51,12px 12px 0 -1px #6d8d72,12px 12px 0 #40634c}
+.hero-dossier .dossier-card{background:#e2ead9;color:#173325;border-color:#93ac91;box-shadow:6px 6px 0 -1px #a9bd9f,6px 6px 0 #4f6e51,12px 12px 0 -1px #6d8d72,12px 12px 0 #40634c,0 25px 50px #0003}
+.dossier-line{background:#d2e0cc;border-color:#b1c4a9}.dossier-card p,.dossier-card small{color:#476047}.dossier-line:before{background:#bdcfb4}
+/* Evidence map: no dots, checks, graph paper or repeating rules. */
+.evidence-field{background-color:#fff;background-image:none;border-color:#dce5df}
+.flow-shell,.evidence-field .flow-shell{background:#c9dbc2;border:1px solid #8eaa88;box-shadow:none;border-radius:3px}
+.flow-map,.react-flow{background:#c9dbc2}
+.react-flow__background{display:none}
+.flow-shell .visual-caption,.flow-mobile-summary{background:#b5cbae;border-color:#97b291;color:#284d30}
+.flow-shell .react-flow__node{background:#e3ecd9;border-color:#8ba87e;color:#1f3a24;box-shadow:none;border-radius:3px}
+.flow-shell .react-flow__node.central-node{background:#214a36;color:#eaf2df;border-color:#214a36}
+.flow-shell .react-flow__node.central-node :is(b,small,.map-node-kicker){color:#eaf2df}
+.flow-shell .react-flow__node{background:#e3ecd9!important;border-color:#8ba87e!important}
+.flow-shell .react-flow__node.central-node{background:#214a36!important;border-color:#214a36!important}
+.source-callouts{gap:0;border-top:1px solid #8eaa88;border-bottom:1px solid #8eaa88}
+.source-callouts>div{background:transparent;border:0;border-right:1px solid #8eaa88;box-shadow:none;border-radius:0}
+.source-callouts>div:last-child{border-right:0}
+/* Dark chapter, contrasting document stock. */
+.journey-shell,.journey-pin{background-color:#0c2420;background-image:var(--grain);color:#e4ecdD}
+.journey-title .eyebrow,.journey-copy p,.chapter-count small,.mobile-scroll-hint{color:#adbfaf}
+.journey-copy .text-link,.journey-title .skip-chapter,.chapter-count{color:#dfaa86}
+.journey-controls button{background:#183c30;border-color:#4c6856;color:#dce7d7;border-radius:2px}
+.journey-controls button:hover,.journey-controls button[aria-current="step"]{background:#d58c65;color:#11291e;border-color:#d58c65}
+.journey-document{background:#e3ebda;color:#173325;border-color:#8aab86;box-shadow:0 22px 55px #0002;border-radius:3px}
+.journey-document p,.journey-document .key-value span{color:#486044}
+.journey-visual{background:#bed1b3;border-color:#9fb994}.journey-visual.pod{background:#d7b292}.journey-visual.task{background:#acc8b5}
+.journey-art-stage{background:#d7e3c8;border-radius:2px}.journey-art-stage img{mix-blend-mode:multiply}
+.evidence-tags>span{background:#d8e4cd;border-color:#90aa83;color:#31522b}
+.journey-progress{color:#a2b7a4}.journey-progress>div{background:#3c5b49}.journey-progress-bar{background:#d58c65}
+/* Copper-brown introduces the value discrepancy, not another gray box. */
+.comparison{background-color:#382a24;background-image:var(--grain);color:#f1e8df}
+.comparison p,.comparison .eyebrow{color:#d3bfb0}.comparison .text-link{color:#edb995}
+.invoice-card.ledger-card{background:#e3e9d7;border-color:#b5bca7;color:#203626;border-radius:3px;box-shadow:0 18px 40px #160b0622}
+.ledger-formula{background:#c8d7bd;border-color:#a4b798}.source-ledger .ledger-formula{background:#bed3b7;border-color:#92ad87}
+.ledger-icon{background:#c7d6bc;border-color:#a1b596}
+.invoice-comparison .difference strong,.invoice-comparison .difference svg{color:#e9ad81}.invoice-comparison .difference small{color:#d6c1ae}
+/* Reading chapters use pigmented greens, not white/gray stripes. */
+.product-section{background-color:#cad9c1;background-image:var(--grain);border-color:#a4ba9a}
+.product-row .module-art,.solution-card .module-art{background:transparent;mix-blend-mode:multiply;border-radius:0}
+.product-row,.product-row:last-child{border-color:#a3b799}
+.product-row:is(:hover,:focus-visible) .module-art,.solution-card:is(:hover,:focus-within) .module-art{mix-blend-mode:normal;border-radius:2px}
+.permission-field{background-color:#fff;background-image:none;border-color:#dce5df}
+.permission-field .role-tabs{border-color:#a9bd9b}.permission-field .role-tabs button[aria-selected="true"]{background:#234c3e;color:#e8efdf}
+.workbench-field{background-color:#123e34;background-image:var(--grain);border-color:#416752;color:#e4ecdc}
+.workbench-field .section-head p,.workbench-field .eyebrow{color:#b7cbb9}
+.workbench-preview{background:#e3ebda;color:#173325;border-color:#759474;box-shadow:0 25px 60px #071b1733;border-radius:3px}
+.preview-topbar,.preview-sidebar,.preview-task{background:#c5d5ba}.preview-main,.checklist-card{background:#e3ebda}
+.rule-section{background-color:#fff;background-image:none}
+.rule-card,.scorecard{background:#dce7ce;border-color:#98b187;border-radius:3px;box-shadow:none}
+.baseline-grid{background:transparent;border-color:#9db592}.baseline-grid>div{border-color:#9db592}.baseline-number{color:#607e56}
+.baseline-grid>div:last-child{background:#bed2b1}
+.pilot-field{background-color:#234c3e;background-image:var(--grain);color:#e8efdf;border-color:#4e7057}
+.pilot-field .eyebrow,.pilot-field .pricing-home>div>p{color:#bed0ba}.pilot-field .button{background:#d58c65;border-color:#d58c65;color:#15291d}
+.pilot-field .price-card,.price-card{background:#d9e4cc;border-color:#8ea681;color:#1c3825;border-radius:3px;box-shadow:none}
+.case-tray>div{background:#b8ceaa;border-color:#96b084}.price-footer{border-color:#9ab28c}
+.faq-field{background-color:#fff;background-image:none;border-color:#dce5df}
+.faq-section>div>img{mix-blend-mode:multiply}.faq-list details{border-color:#95ae8b}
+.final-cta{background-color:#173c30;background-image:var(--grain);color:#e6eddd;border-color:#42634b}
+.final-cta:before,.site-footer:before{display:none}
+.final-cta h2{color:#e6eddd}.final-cta p,.final-cta .eyebrow,.final-cta .cta-visual>.micro{color:#bed0b8}
+.final-cta .button{background:#d58c65;color:#10251d;border-color:#d58c65}
+.site-footer{background-color:#081a17;background-image:var(--grain)}
+.footer-manifesto h2 em,.footer-wordmark span{color:#c5b49a}.footer-invitation .button{background:#d58c65;color:#12271c;border-color:#d58c65}
+/* All secondary pages share the material system. */
+.page-hero,.page-intro{position:relative;isolation:isolate;border-color:#9eb395}
+.page-hero:before,.page-intro:before{content:'';position:absolute;inset:0 calc((min(1280px,100vw - 112px) - 100vw)/2);background-color:#b6cbaa;background-image:var(--grain);z-index:-1;pointer-events:none}
+.product-hero-art,.resource-cover,.auth-art{background:#b8cfad;border-color:#96b18a;border-radius:3px}
+.product-hero-art .module-art,.resource-cover img,.auth-art img{mix-blend-mode:multiply}
+.art-caption,.audience-strip,.boundary-note,.source-references{background:#bed0b4;border-color:#97ad89}
+.solution-card,.resource-card,.enquiry-form-panel,.auth-form,.pricing-modules{background:#dfe8d4;border-color:#a0b491;border-radius:3px;box-shadow:none}
+.enquiry-page,.auth-page,.legal-page{background:transparent}
+input,select,textarea{background:#eff3e7;color:#193321;border-color:#98ad8c}
+.enquiry-intro>.module-art,.pricing-side>.module-art{mix-blend-mode:multiply}
+.demo-banner,.demo-nav{background:#c3d4b7;color:#193321;border-color:#91ab84}
+.workbench,.workbench-content,.case-detail{background:#cfddc4;color:#193321}
+.table-scroll,.case-columns,.queue-stats,.report-chart{background:#e3ebda;border-color:#a5b79b}
+@media(max-width:760px){.page-hero:before,.page-intro:before{inset-inline:-20px}.hero-art{height:270px;object-fit:contain;mask-image:linear-gradient(to bottom,transparent,black 12%,black 87%,transparent)}.home-hero .hero-scene{margin-top:24px}.home-hero .hero-dossier .dossier-card{background:#e2ead9}.source-callouts>div{border-right:0;border-bottom:1px solid #8eaa88}.source-callouts>div:last-child{border-bottom:0}.journey-controls button{font-size:9px}.hero-heading-v2 h1 .hero-line:last-child{margin-top:5px!important}}
+
+/* Freight Desk: clean white hero requested in browser review. */
+.page-hero[data-product="desk"],.page-hero[data-product="desk"]:before,
+.page-hero[data-product="proof"],.page-hero[data-product="proof"]:before{background-color:#fff;background-image:none}
+
+/* Freight Review scope: white background per browser review. */
+.product-scope[data-product="review"],.product-scope[data-product="proof"]{background-color:#fff;background-image:none}
+
+/* Freight Review hero and workflow: white backgrounds per browser review. */
+.page-hero[data-product="review"],.page-hero[data-product="review"]:before,.product-workflow[data-product="review"],.product-workflow[data-product="desk"],.product-workflow[data-product="proof"]{background-color:#fff;background-image:none}
+
+/* Freight Signal: white hero, workflow, and scope sections. */
+.page-hero[data-product="signal"],.page-hero[data-product="signal"]:before,
+.product-workflow[data-product="signal"],.product-scope[data-product="signal"]{background-color:#fff;background-image:none}
+
+/* Freight Report: white hero, workflow, and scope sections. */
+.page-hero[data-product="report"],.page-hero[data-product="report"]:before,
+.product-workflow[data-product="report"],.product-scope[data-product="report"]{background-color:#fff;background-image:none}
+
+/* Platform: clean white shared-workbench hero. */
+.page-hero[data-page="platform"],.page-hero[data-page="platform"]:before{background-color:#fff;background-image:none}

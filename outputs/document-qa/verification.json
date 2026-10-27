@@ -1,0 +1,15 @@
+{
+  "scope": "Planning document and data checks only; not website/product QA",
+  "date": "2026-10-27",
+  "local_references": "passed",
+  "images_with_alt": 10,
+  "section_anchors": 16,
+  "fixture_arithmetic": "passed",
+  "queue_counts": "passed",
+  "unknown_deadline_and_outcome_states": "passed",
+  "blank_pilot_case_slots": 20,
+  "desktop_document_render": "visually checked at browser default 1280\u00d7720",
+  "mobile_product_screenshots": "not produced; implementation is future work",
+  "generated_art_data_accuracy": "Known discrepancies documented; art is not data authority",
+  "approx_document_words": 11172
+}

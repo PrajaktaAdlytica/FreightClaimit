@@ -1,0 +1,34 @@
+{
+  "selected_direction": 3,
+  "name": "Claim Atlas",
+  "user_decision": "User selected option 3; rejected the creamish background as dull.",
+  "revision": "Crisp white v2",
+  "palette": {
+    "background": "#FFFFFF",
+    "secondary": "#F1F5F6",
+    "text": "#101C20",
+    "muted": "#52616A",
+    "emerald": "#075E53",
+    "silver": "#DCE5E9",
+    "dark_chapter": "#101C20",
+    "exception": "#B9630B"
+  },
+  "preserve": [
+    "central dossier",
+    "role topology",
+    "source-linked evidence",
+    "sans-serif main headline",
+    "serif editorial section headings",
+    "five-module index"
+  ],
+  "avoid": [
+    "cream",
+    "beige",
+    "warm haze",
+    "muddy sage"
+  ],
+  "image": "visual-directions/03-claim-atlas-crisp-white-v2.png",
+  "method": "Built-in image_gen; reference-guided revision and targeted headline correction",
+  "prompt": "Edit the attached FreightClaimKit website concept. This is the USER-SELECTED Claim Atlas direction. Preserve its composition, information hierarchy, logo/wordmark, central glass dossier, party diagram, module index, and premium editorial typography. Do not redesign or replace it with another concept. Produce ONE refined full-page image, matching the reference aspect ratio, approximately 1440 x 2304. Current date 2026-10-27. This is a visual concept, not real software.\nUSER FEEDBACK: the creamish background looks dull. REMOVE ALL cream, beige, ivory, sepia, yellow-white and muddy sage casts. Make it crisp, fresh, precise and luxurious with strong contrast.\nColor/material treatment:\n- HERO and product index backgrounds pure cool-neutral white #FFFFFF, with a very faint cool gray #F1F5F6 spatial grid. No warm haze, no vignette, no pale beige anywhere.\n- Main text near-black #101C20, supporting text #52616A.\n- Cargo structures richer deep emerald #075E53 and brushed silver #DCE5E9; varied solid versus outlined forms retain distinct party meanings.\n- Transparent evidence panels must have sharper clear-glass edges, delicate silver borders, realistic cool studio lighting and beautifully controlled contact shadows. Keep labels high contrast and readable.\n- Primary CTA rich emerald with white label.\n- Reserve amber #B9630B exclusively for unresolved evidence/discrepancy states, not decorative beige illumination.\n- Turn the MIDDLE evidence-comparison chapter into a striking deep graphite #101C20 full-width section: white editorial headline, light cool-gray body, TWO bright-white flat invoice/draft cards, connected by one restrained amber discrepancy marker. The dark chapter provides a cinematic scroll transition between white hero and white product index. No neon, no purple, no generic blue gradient.\nRetain main hero headline exactly \"One case. Every source. Clear responsibility.\" and subline \"Explore a proposed evidence audit for cargo damage and shortage claims.\" Primary CTA \"Inspect sample claim\".\nKeep visible CONCEPT PREVIEW and DEMO — SYNTHETIC DATA labels. Hero case FC-208 rows exactly \"Signed POD: unresolved\", \"Invoice comparison: review\", \"Deadline: verify\". No deadline dates. Cargo owner, 3PL agent and Insurer remain distinct with separate Standing review layer for counsel. Insurer caption \"Policy role and authority require review.\" Do not imply software grants standing.\nMiddle chapter headline \"Keep the source. Record the correction.\" Correct evidence semantics: LEFT card \"Draft damage schedule\" value \"$2,880\", source caption \"12 cartons × $240 · synthetic\"; RIGHT card \"Commercial invoice comparison\" value \"$2,640\", caption \"12 cartons × $220 · synthetic\"; marker \"$240 discrepancy\" and \"Reviewer correction pending\". This is NOT a carrier invoice, NOT a recovery estimate.\nKeep all five proposed modules in the original editorial index style, each with its own small architectural illustration, accurate descriptions:\n\"Freight Desk\" — \"Evidence completeness\"\n\"Freight Review\" — \"Verified rules and notices\"\n\"Freight Proof\" — \"Invoice reconciliation\"\n\"Freight Signal\" — \"Reviewed packets and status\"\n\"Freight Report\" — \"Recovery and prevention analysis\"\nDo not add invented functionality, customer proof, recovery claims, live integrations or certification. Footer \"Proposed modules • Availability unvalidated\".\nMake the overall page predominantly bright white with the single dark middle chapter, richer emerald structural accents, very crisp typography, clear diagrams, premium spacing, strong dimensional clarity. Preserve the chosen design's personality. No browser/device frame. No alternate options within this image.",
+  "implementation_status": "Visual refinement; no website implementation"
+}

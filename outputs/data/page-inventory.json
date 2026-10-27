@@ -1,0 +1,275 @@
+[
+  {
+    "route": "/",
+    "title": "Home",
+    "purpose": "Full offer and conversion",
+    "visual": "Cargo-to-dossier hero; 13-chapter story below",
+    "cta": "Inspect sample claim / Request a pilot"
+  },
+  {
+    "route": "/why-change",
+    "title": "Problem",
+    "purpose": "Scattered evidence and current alternatives",
+    "visual": "Split operational map of inbox, warehouse photo, POD, invoice; gaps come into alignment on scroll",
+    "cta": "Inspect FC-208"
+  },
+  {
+    "route": "/solutions",
+    "title": "Solutions overview",
+    "purpose": "Choose by responsibility or workflow",
+    "visual": "Five role stations around one case; selection highlights permitted actions",
+    "cta": "Explore relevant solution"
+  },
+  {
+    "route": "/solutions/shippers",
+    "title": "Cargo owners / shippers",
+    "purpose": "Claims budget, recurring loss, source ownership",
+    "visual": "Solid cargo block opens into case portfolio and intake checklist",
+    "cta": "Request Freight Desk pilot"
+  },
+  {
+    "route": "/solutions/3pl",
+    "title": "3PL agents",
+    "purpose": "Delegation, communication and evidence chase",
+    "visual": "Modular handoff chain with an explicit authority gap",
+    "cta": "Review workflow / Request demo"
+  },
+  {
+    "route": "/solutions/claims-analysts",
+    "title": "Claims analysts",
+    "purpose": "Daily queue, exceptions and corrections",
+    "visual": "FC-208 three-pane workbench; evidence and task reveal together",
+    "cta": "Open sample workbench"
+  },
+  {
+    "route": "/solutions/insurance-counsel",
+    "title": "Insurance and counsel collaboration",
+    "purpose": "Separate insurer role from counsel review",
+    "visual": "Policy/contract source frame beside standing matrix; no legal advice or coverage decision",
+    "cta": "Explore permissions"
+  },
+  {
+    "route": "/solutions/loss-prevention",
+    "title": "Loss prevention / packaging",
+    "purpose": "Separate prevention budget",
+    "visual": "Cutaway carton and case-coded pattern report, illustrative watermark",
+    "cta": "Discuss Freight Report"
+  },
+  {
+    "route": "/products",
+    "title": "Product portfolio",
+    "purpose": "All five offers and their relationship",
+    "visual": "Five individually illustrated product panels, accessible index and first-pilot badge",
+    "cta": "Open each product"
+  },
+  {
+    "route": "/products/freight-desk",
+    "title": "Freight Desk",
+    "purpose": "POD/photo/BOL evidence completeness auditor",
+    "visual": "A cargo section unfolds into five document slots; the missing signed-POD slot stays open.",
+    "cta": "Request product demo / Explore synthetic example"
+  },
+  {
+    "route": "/products/freight-review",
+    "title": "Freight Review",
+    "purpose": "Carrier-specific deadline and notice tracker with verified rule owner",
+    "visual": "A timeline remains undated until a source/version/owner card is attached; unknown dates visibly stay Verify.",
+    "cta": "Request product demo / Explore synthetic example"
+  },
+  {
+    "route": "/products/freight-proof",
+    "title": "Freight Proof",
+    "purpose": "Value and damage schedule reconciler against invoices",
+    "visual": "Two aligned ledgers bridge only on matching source line IDs; $240 draft discrepancy remains a review task.",
+    "cta": "Request product demo / Explore synthetic example"
+  },
+  {
+    "route": "/products/freight-signal",
+    "title": "Freight Signal",
+    "purpose": "Claimant-approved submission packet generator and status tracker",
+    "visual": "A packet assembles behind a permission gate; export shows unresolved items; public demo has no filing action.",
+    "cta": "Request product demo / Explore synthetic example"
+  },
+  {
+    "route": "/products/freight-report",
+    "title": "Freight Report",
+    "purpose": "Recovery analytics and packaging/root-cause prevention report",
+    "visual": "Transparent paired bars with an explicit unknown cohort, then a carton construction diagram tied to case evidence.",
+    "cta": "Request product demo / Explore synthetic example"
+  },
+  {
+    "route": "/platform",
+    "title": "Shared platform",
+    "purpose": "One dossier, source lineage, corrections, tasks and permissions",
+    "visual": "Exploded architecture: original evidence \u2192 fields \u2192 exceptions \u2192 reviewer \u2192 export; five modules attach to explicit ports",
+    "cta": "Inspect platform concept"
+  },
+  {
+    "route": "/features",
+    "title": "Capabilities",
+    "purpose": "Provenance, OCR confidence, review, rules, export, reporting",
+    "visual": "Annotated dossier atlas with deep links to product ownership; avoid duplicating product marketing",
+    "cta": "Explore owner product"
+  },
+  {
+    "route": "/results",
+    "title": "Evaluation and evidence",
+    "purpose": "High workflow evidence / low incremental demand; no testimonials or customer metrics",
+    "visual": "Blank baseline-vs-pilot scorecard and synthetic outcome example, clearly separated",
+    "cta": "Read pilot methodology"
+  },
+  {
+    "route": "/pricing",
+    "title": "Pilot pricing",
+    "purpose": "Test commercial model, scope and qualification",
+    "visual": "20-case bundle drawn as a tidy tray; $400 and $8 labels marked hypothetical",
+    "cta": "Request scoped pilot; no checkout"
+  },
+  {
+    "route": "/request-demo",
+    "title": "Request a guided demo",
+    "purpose": "Guided conversation, module or full suite selection",
+    "visual": "Compact dossier invitation and 3-step expectations; no heavy pinning",
+    "cta": "Send request only when connected"
+  },
+  {
+    "route": "/pilot",
+    "title": "Permissioned audit request",
+    "purpose": "Authority, volume, mode, current workflow and pilot fit",
+    "visual": "Three steps: scope \u2192 authority/data agreement \u2192 audit comparison; no document upload",
+    "cta": "Request a pilot"
+  },
+  {
+    "route": "/demo",
+    "title": "Demo entry",
+    "purpose": "Persistent synthetic and concept disclosure; no real uploads",
+    "visual": "Case list preview; enter without credentials",
+    "cta": "Open synthetic queue"
+  },
+  {
+    "route": "/demo/queue",
+    "title": "Claims workbench queue",
+    "purpose": "10 consistent records, filters, counts, owners and next actions",
+    "visual": "Functional list with selected-case evidence peek",
+    "cta": "Open FC-208"
+  },
+  {
+    "route": "/demo/cases/FC-208",
+    "title": "Opened dossier",
+    "purpose": "Attachment provenance, checklist, tasks, deadline source, history",
+    "visual": "1440\u00d7900 three-pane desktop; mobile stacked evidence/task navigation",
+    "cta": "Review source / Record demo correction"
+  },
+  {
+    "route": "/demo/report",
+    "title": "Report detail",
+    "purpose": "Submitted vs recovered where known; explicit unknown cohort; prevention hypothesis",
+    "visual": "Paired bars plus accessible table and packaging issue callouts",
+    "cta": "Inspect source case / Export synthetic report"
+  },
+  {
+    "route": "/demo/opportunities",
+    "title": "Fictional opportunity board",
+    "purpose": "Audit requested \u2192 Data authority checked \u2192 Packet reviewed \u2192 Paid bundle proposed",
+    "visual": "Four-stage board linked to cases; no won-recovery badge",
+    "cta": "Inspect opportunity"
+  },
+  {
+    "route": "/trust",
+    "title": "Permissions and data handling",
+    "purpose": "Standing, scope, rights, approval boundary; proposed security requirements",
+    "visual": "Permission matrix with source/version side panel; do not imply implemented certifications",
+    "cta": "Read rule protocol / Request demo"
+  },
+  {
+    "route": "/integrations",
+    "title": "Workflow fit",
+    "purpose": "Existing TMS, carrier portals and file exports as context; none confirmed live",
+    "visual": "Boundary diagram with dashed proposed connectors and explicit availability labels",
+    "cta": "Tell us your current system"
+  },
+  {
+    "route": "/resources",
+    "title": "Knowledge library",
+    "purpose": "Evidence checklist, rule verification, evaluation and comparisons",
+    "visual": "Editorial index with original document and diagram covers",
+    "cta": "Read a guide"
+  },
+  {
+    "route": "/resources/evidence-checklist",
+    "title": "Evidence guide",
+    "purpose": "Original checklist with UPS reference and applicability caveat",
+    "visual": "Five source-document anatomy diagrams",
+    "cta": "Inspect sample evidence"
+  },
+  {
+    "route": "/resources/carrier-rules",
+    "title": "Carrier-rules FAQ / protocol",
+    "purpose": "Exact source, version, owner, applicability and unknown state",
+    "visual": "Rule card anatomy and dated review history",
+    "cta": "Review verification protocol"
+  },
+  {
+    "route": "/resources/compare-workflows",
+    "title": "Competitor / substitutes",
+    "purpose": "FreightClaims, carrier portals, spreadsheets, TMS, recovery firms",
+    "visual": "Neutral capability-and-test matrix; no unsupported scores",
+    "cta": "Compare using pilot worksheet"
+  },
+  {
+    "route": "/resources/pilot-methodology",
+    "title": "Demand experiment / decision gate",
+    "purpose": "10 interviews, 2 authorized case sets, 1 paid bundle in 45 days; go/pivot/stop rules",
+    "visual": "Research timeline and unfilled scorecard",
+    "cta": "Request pilot"
+  },
+  {
+    "route": "/company",
+    "title": "Company",
+    "purpose": "Mission, vision, approach and current concept stage",
+    "visual": "Cargo and evidence assembly as an editorial process illustration; no fictional staff portraits",
+    "cta": "Contact / Discuss research"
+  },
+  {
+    "route": "/contact",
+    "title": "Contact",
+    "purpose": "General question or collaboration intent",
+    "visual": "Minimal case-label composition; visible form states and privacy context",
+    "cta": "Send only when connected"
+  },
+  {
+    "route": "/sign-in",
+    "title": "Access concept",
+    "purpose": "Polished but unconnected authentication presentation",
+    "visual": "Quiet evidence-vault crop with demo access and access-help panel",
+    "cta": "Enter synthetic demo / Request access"
+  },
+  {
+    "route": "/access-help",
+    "title": "Access help",
+    "purpose": "No functioning password/reset or SSO implied",
+    "visual": "Small source-linked help index, low motion",
+    "cta": "Contact / Return to demo"
+  },
+  {
+    "route": "/legal/privacy",
+    "title": "Privacy draft",
+    "purpose": "Lead data purpose, consent, retention/deletion and contact fields to finalize",
+    "visual": "Readable document page with restrained side index",
+    "cta": "Contact with privacy query"
+  },
+  {
+    "route": "/legal/terms",
+    "title": "Concept-use terms draft",
+    "purpose": "Synthetic demo, no regulated service or claim submission, no payment",
+    "visual": "Readable document page with version metadata",
+    "cta": "Return to demo"
+  },
+  {
+    "route": "/404",
+    "title": "Error recovery",
+    "purpose": "Useful branded recovery",
+    "visual": "An open document slot; no perpetual animation",
+    "cta": "Home / Products / Contact"
+  }
+]

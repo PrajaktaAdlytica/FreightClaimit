@@ -1,0 +1,32 @@
+FREIGHTCLAIMKIT — RESEARCH, IA & VISUAL DIRECTIONS
+27 October 2026
+
+Open FreightClaimKit-Architecture-and-Visual-Direction.html in a browser.
+Keep its visual-directions, reference-captures and data folders beside it.
+The document is also print-styled.
+
+Included:
+- 39 planned routes and a grouped sitemap
+- 13 homepage chapters with copy, visuals, motion and CTAs
+- Three independent generated visual territories
+- 56-item brief-to-website coverage register
+- Full five-product inventory and unique hero plans
+- Brand, typography, layout, hover and GSAP/Lenis motion specifications
+- Ten synthetic case fixtures and a detailed FC-208 dossier
+- Original evidence checklist, role/action storyboard and rule-verification protocol
+- Competitor objection matrix and blank 20-case pilot worksheet
+- Conversion, consent, analytics and 45-day validation plan
+- Primary research links and seven live-reference captures
+
+This is a planning and art-direction package, not an implemented website or claims product.
+Generated images contain exploratory UI and documented copy/data drift; use the written
+inventory and fixture JSON as the source of truth. These PNGs are not real product screenshots.
+Real desktop/mobile prototype captures, final identity, live forms, deployment and domain
+configuration belong to the subsequent implementation phase.
+
+No real claimant records, customer photos, carrier approvals or customer outcomes are included.
+Reference website captures are for private design study and are not production assets.
+
+CURRENT SELECTION: Option 3 / Claim Atlas. Use the crisp-white v2 revision.
+The cream/beige treatment and the earlier option-1 recommendation are superseded.
+Palette: white, cool gray, silver, emerald, graphite; amber for exceptions.

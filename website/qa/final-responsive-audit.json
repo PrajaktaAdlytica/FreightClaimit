@@ -1,0 +1,998 @@
+[
+  {
+    "badImages": [],
+    "h1": [
+      "Know what’s missing.Before you file."
+    ],
+    "overflow": [],
+    "path": "/",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Every field leads back to a source."
+    ],
+    "overflow": [],
+    "path": "/platform",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Different responsibilities.A shared evidence trail."
+    ],
+    "overflow": [],
+    "path": "/solutions",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start with a defined question.Test it on twenty cases."
+    ],
+    "overflow": [],
+    "path": "/pricing",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A clearer wayto review the case."
+    ],
+    "overflow": [],
+    "path": "/resources",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Welcome back."
+    ],
+    "overflow": [],
+    "path": "/sign-in",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "See the proposed workflow."
+    ],
+    "overflow": [],
+    "path": "/request-demo",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "FC-208 Damaged cartons"
+    ],
+    "overflow": [],
+    "path": "/demo/cases/FC-208",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start with the tools you already use."
+    ],
+    "overflow": [],
+    "path": "/integrations",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A deadline is only as clear as its source."
+    ],
+    "overflow": [],
+    "path": "/resources/carrier-rules",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Five offers.One clear first test."
+    ],
+    "overflow": [],
+    "path": "/products",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Find the gaps. Before the claim."
+    ],
+    "overflow": [],
+    "path": "/products/freight-desk",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Every deadline needs a source."
+    ],
+    "overflow": [],
+    "path": "/products/freight-review",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Make every amount traceable."
+    ],
+    "overflow": [],
+    "path": "/products/freight-proof",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A packet with a clear next step."
+    ],
+    "overflow": [],
+    "path": "/products/freight-signal",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Learn from the case. Improve the next shipment."
+    ],
+    "overflow": [],
+    "path": "/products/freight-report",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Let’s scope the first audit."
+    ],
+    "overflow": [],
+    "path": "/pilot",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Small details. A reviewable case."
+    ],
+    "overflow": [],
+    "path": "/features",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A scorecard. Not a promise."
+    ],
+    "overflow": [],
+    "path": "/results",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Evidence review queue."
+    ],
+    "overflow": [
+      {
+        "class": "case-table",
+        "right": 871,
+        "tag": "TABLE"
+      }
+    ],
+    "path": "/demo/queue",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Know what is missing before filing."
+    ],
+    "overflow": [],
+    "path": "/resources/evidence-checklist",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Compare against a capable incumbent."
+    ],
+    "overflow": [],
+    "path": "/resources/compare-workflows",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Test the audit. Record the result."
+    ],
+    "overflow": [],
+    "path": "/resources/pilot-methodology",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Better evidence. More considered decisions."
+    ],
+    "overflow": [],
+    "path": "/company",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start a conversation."
+    ],
+    "overflow": [],
+    "path": "/contact",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Authority is part of the evidence."
+    ],
+    "overflow": [],
+    "path": "/trust",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "An interest in the goods. A clear role in the case."
+    ],
+    "overflow": [],
+    "path": "/solutions/shippers",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Coordinate the evidence. Confirm the mandate."
+    ],
+    "overflow": [],
+    "path": "/solutions/3pl",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "One case. An evidence trail. A dated next action."
+    ],
+    "overflow": [],
+    "path": "/solutions/claims-analysts",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Coverage has its own source and authority."
+    ],
+    "overflow": [],
+    "path": "/solutions/insurance-counsel",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Investigate recurring loss at the source."
+    ],
+    "overflow": [],
+    "path": "/solutions/loss-prevention",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Privacy notice"
+    ],
+    "overflow": [],
+    "path": "/legal/privacy",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Concept-use terms"
+    ],
+    "overflow": [],
+    "path": "/legal/terms",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Know what’s missing.Before you file."
+    ],
+    "overflow": [],
+    "path": "/",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Every field leads back to a source."
+    ],
+    "overflow": [],
+    "path": "/platform",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Different responsibilities.A shared evidence trail."
+    ],
+    "overflow": [],
+    "path": "/solutions",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start with a defined question.Test it on twenty cases."
+    ],
+    "overflow": [],
+    "path": "/pricing",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A clearer wayto review the case."
+    ],
+    "overflow": [],
+    "path": "/resources",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Welcome back."
+    ],
+    "overflow": [],
+    "path": "/sign-in",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "See the proposed workflow."
+    ],
+    "overflow": [],
+    "path": "/request-demo",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "FC-208 Damaged cartons"
+    ],
+    "overflow": [],
+    "path": "/demo/cases/FC-208",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start with the tools you already use."
+    ],
+    "overflow": [],
+    "path": "/integrations",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A deadline is only as clear as its source."
+    ],
+    "overflow": [],
+    "path": "/resources/carrier-rules",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Five offers.One clear first test."
+    ],
+    "overflow": [],
+    "path": "/products",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Find the gaps. Before the claim."
+    ],
+    "overflow": [],
+    "path": "/products/freight-desk",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Every deadline needs a source."
+    ],
+    "overflow": [],
+    "path": "/products/freight-review",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Make every amount traceable."
+    ],
+    "overflow": [],
+    "path": "/products/freight-proof",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A packet with a clear next step."
+    ],
+    "overflow": [],
+    "path": "/products/freight-signal",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Learn from the case. Improve the next shipment."
+    ],
+    "overflow": [],
+    "path": "/products/freight-report",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Let’s scope the first audit."
+    ],
+    "overflow": [],
+    "path": "/pilot",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Small details. A reviewable case."
+    ],
+    "overflow": [],
+    "path": "/features",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A scorecard. Not a promise."
+    ],
+    "overflow": [],
+    "path": "/results",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Evidence review queue."
+    ],
+    "overflow": [],
+    "path": "/demo/queue",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Know what is missing before filing."
+    ],
+    "overflow": [],
+    "path": "/resources/evidence-checklist",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Compare against a capable incumbent."
+    ],
+    "overflow": [],
+    "path": "/resources/compare-workflows",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Test the audit. Record the result."
+    ],
+    "overflow": [],
+    "path": "/resources/pilot-methodology",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Better evidence. More considered decisions."
+    ],
+    "overflow": [],
+    "path": "/company",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start a conversation."
+    ],
+    "overflow": [],
+    "path": "/contact",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Authority is part of the evidence."
+    ],
+    "overflow": [],
+    "path": "/trust",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "An interest in the goods. A clear role in the case."
+    ],
+    "overflow": [],
+    "path": "/solutions/shippers",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Coordinate the evidence. Confirm the mandate."
+    ],
+    "overflow": [],
+    "path": "/solutions/3pl",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "One case. An evidence trail. A dated next action."
+    ],
+    "overflow": [],
+    "path": "/solutions/claims-analysts",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Coverage has its own source and authority."
+    ],
+    "overflow": [],
+    "path": "/solutions/insurance-counsel",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Investigate recurring loss at the source."
+    ],
+    "overflow": [],
+    "path": "/solutions/loss-prevention",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Privacy notice"
+    ],
+    "overflow": [],
+    "path": "/legal/privacy",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Concept-use terms"
+    ],
+    "overflow": [],
+    "path": "/legal/terms",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Know what’s missing.Before you file."
+    ],
+    "overflow": [],
+    "path": "/",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Every field leads back to a source."
+    ],
+    "overflow": [],
+    "path": "/platform",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Different responsibilities.A shared evidence trail."
+    ],
+    "overflow": [],
+    "path": "/solutions",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start with a defined question.Test it on twenty cases."
+    ],
+    "overflow": [],
+    "path": "/pricing",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A clearer wayto review the case."
+    ],
+    "overflow": [],
+    "path": "/resources",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Welcome back."
+    ],
+    "overflow": [],
+    "path": "/sign-in",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "See the proposed workflow."
+    ],
+    "overflow": [],
+    "path": "/request-demo",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "FC-208 Damaged cartons"
+    ],
+    "overflow": [],
+    "path": "/demo/cases/FC-208",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start with the tools you already use."
+    ],
+    "overflow": [],
+    "path": "/integrations",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A deadline is only as clear as its source."
+    ],
+    "overflow": [],
+    "path": "/resources/carrier-rules",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Five offers.One clear first test."
+    ],
+    "overflow": [],
+    "path": "/products",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Find the gaps. Before the claim."
+    ],
+    "overflow": [],
+    "path": "/products/freight-desk",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Every deadline needs a source."
+    ],
+    "overflow": [],
+    "path": "/products/freight-review",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Make every amount traceable."
+    ],
+    "overflow": [],
+    "path": "/products/freight-proof",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A packet with a clear next step."
+    ],
+    "overflow": [],
+    "path": "/products/freight-signal",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Learn from the case. Improve the next shipment."
+    ],
+    "overflow": [],
+    "path": "/products/freight-report",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Let’s scope the first audit."
+    ],
+    "overflow": [],
+    "path": "/pilot",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Small details. A reviewable case."
+    ],
+    "overflow": [],
+    "path": "/features",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "A scorecard. Not a promise."
+    ],
+    "overflow": [],
+    "path": "/results",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Evidence review queue."
+    ],
+    "overflow": [],
+    "path": "/demo/queue",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Know what is missing before filing."
+    ],
+    "overflow": [],
+    "path": "/resources/evidence-checklist",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Compare against a capable incumbent."
+    ],
+    "overflow": [],
+    "path": "/resources/compare-workflows",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Test the audit. Record the result."
+    ],
+    "overflow": [],
+    "path": "/resources/pilot-methodology",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Better evidence. More considered decisions."
+    ],
+    "overflow": [],
+    "path": "/company",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Start a conversation."
+    ],
+    "overflow": [],
+    "path": "/contact",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Authority is part of the evidence."
+    ],
+    "overflow": [],
+    "path": "/trust",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "An interest in the goods. A clear role in the case."
+    ],
+    "overflow": [],
+    "path": "/solutions/shippers",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Coordinate the evidence. Confirm the mandate."
+    ],
+    "overflow": [],
+    "path": "/solutions/3pl",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "One case. An evidence trail. A dated next action."
+    ],
+    "overflow": [],
+    "path": "/solutions/claims-analysts",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Coverage has its own source and authority."
+    ],
+    "overflow": [],
+    "path": "/solutions/insurance-counsel",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Investigate recurring loss at the source."
+    ],
+    "overflow": [],
+    "path": "/solutions/loss-prevention",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Privacy notice"
+    ],
+    "overflow": [],
+    "path": "/legal/privacy",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "badImages": [],
+    "h1": [
+      "Concept-use terms"
+    ],
+    "overflow": [],
+    "path": "/legal/terms",
+    "scrollWidth": 1440,
+    "width": 1440
+  }
+]

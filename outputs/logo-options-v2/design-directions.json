@@ -1,0 +1,22 @@
+{
+  "method": "Built-in image_gen",
+  "purpose": "Three new raster identity concepts; not installed on website",
+  "concepts": [
+    {
+      "n": "01",
+      "name": "The Missing Piece",
+      "direction": "Invent an arresting compact emblem built from ONE broad sculptural folded strip defining an incomplete cargo volume, with a small detached copper facet precisely completing its silhouette across a deliberate negative-space gap. The missing facet is the conceptual heart: missing evidence made visible. The overall silhouette is bold, asymmetric, immediately memorable, has visual tension and elegant proportions. Do NOT draw a literal wireframe cube, ordinary box icon, hexagon, three bars, or any letters. Make the flat mark look like a piece of bespoke modernist graphic design. A precise missing-corner cut through a solid folded form, not a puzzle piece."
+    },
+    {
+      "n": "02",
+      "name": "The Evidence Lens",
+      "direction": "Invent an exceptional abstract investigative emblem with TWO substantial opposing curved forms, one deep green and one copper, framing a crisp off-center rectangular white aperture. Think of cargo discrepancy coming into focus: expressive sculpted curves meet a precise document-shaped gap. Broad flowing shapes with sharp editorial cuts, strong asymmetric horizontal silhouette, very minimal and graphically assured. NOT an eye, camera shutter, magnifying glass, shield, circular seal, paired circles or infinity symbol. Neither a generic C nor interlocking initials. Aim for a memorable new negative-space symbol that has both softness and engineered exactness."
+    },
+    {
+      "n": "03",
+      "name": "The Case Ribbon",
+      "direction": "Invent a refined graphic ribbon emblem: ONE continuous thick path makes three crisp folds, changing direction through an upright spine, an angled bridge and a return, to subtly evoke organized evidence pages being gathered into one dossier. A strong kinetic angular silhouette, a clever notch or void reveals the connection. Sophisticated two-dimensional graphic construction with great optical balance, dark green body with just one copper terminal. No literal letter F or monogram, no three parallel bars, no cube, no circular seal, no infinity symbol, no standard chain link, no arrows. More distinctive expressive editorial brand mark than fintech icon."
+    }
+  ],
+  "sharedPrompt": "Original premium FreightClaimKit logo identity sheet. White field, deep evergreen #102D28, ink #081A17, copper #D58C65. Large original symbol left, supporting custom grotesk FreightClaimKit wordmark right. Bottom evergreen strip: reversed symbol, app icon and navigation lockup. Flat vector-like artwork, no cream, grids, gradients, 3D, shadows, AI sparkle, stock icons or borrowed marks. Repeat symbol consistently."
+}
