@@ -1,0 +1,47 @@
+[
+  {
+    "step": "01",
+    "task": "Identify the movement",
+    "protocol": "Record carrier legal entity, carrier/forwarder/insurer role, mode, service, origin/destination and relevant legs. Do not infer jurisdiction from a brand name."
+  },
+  {
+    "step": "02",
+    "task": "Establish standing and rights",
+    "protocol": "Separate cargo ownership, agency delegation, insurance interest/subrogation where relevant, contractual rights, data-sharing authority and settlement authority. Have the responsible professional validate permitted handling."
+  },
+  {
+    "step": "03",
+    "task": "Obtain the actual source",
+    "protocol": "Obtain the governing contract/BOL/tariff/policy as applicable from an authorized owner. Store exact source reference, section/page, effective date, retrieval date and version. Public guidance is context, not a substitute for the applicable agreement."
+  },
+  {
+    "step": "04",
+    "task": "Classify the requirement",
+    "protocol": "Separate notice, formal claim, supporting-document requirements and other actions. Identify the triggering event and any exception requiring professional review."
+  },
+  {
+    "step": "05",
+    "task": "Assign verification",
+    "protocol": "Name the rule owner and reviewer. Record applicability assumptions, source conflict and version conflict. Where unresolved, store null deadline + Verify status; create an evidence chase task."
+  },
+  {
+    "step": "06",
+    "task": "Review the calculation",
+    "protocol": "Only after applicability is established, record the source-supported event/date and calculation with the relevant calendar/timezone. A second reviewer checks the date and its meaning. Do not generate a universal default."
+  },
+  {
+    "step": "07",
+    "task": "Publish within scope",
+    "protocol": "Display carrier, mode, contract version, source link, trigger, owner, review date and verification status alongside the task. A reminder is not a legal opinion or promise of timeliness."
+  },
+  {
+    "step": "08",
+    "task": "Control changes",
+    "protocol": "Version each rule update, flag affected cases for re-verification, retain previous calculation and approvals, and stop stale automations until reviewed. Unknown or contradictory sources remain blocked."
+  },
+  {
+    "step": "09",
+    "task": "Maintain the human boundary",
+    "protocol": "Claimant approves any future submission workflow. Settlement, coverage, legal advice and insurance adjustment stay with properly authorized/licensed parties. The public concept only generates synthetic review/export states."
+  }
+]
